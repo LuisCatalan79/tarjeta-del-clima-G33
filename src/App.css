@@ -1,0 +1,9 @@
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('https://imagesyoulike.com/images/00000/32x24/18611.jpg');
+    background-position: center;
+    background-size: cover;
+}
